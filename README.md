@@ -1,0 +1,2 @@
+# KaggleCompetitions
+In this repository I have some of the python codes I have developed in different Kaggle's competitions. I will update this repository with the best code from each competition and do my best to not clutter it with various codes that didn't have my best performance. The list contains, Titanic Competition (done using ScikitLearn and Keras), MNIST Hand Written Digits prediction (done with Keras) and House price predition (done with Keras and SKlearn).
